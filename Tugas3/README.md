@@ -12,16 +12,6 @@ Tugas ini bertujuan untuk menerapkan beberapa teknik filter spasial pada citra d
 3. **Median Filter**: Filter non-linier yang sangat efektif menghilangkan noise *Salt & Pepper*.
 4. **Sharpening Filter**: Menajamkan garis tepi (*edges*) dan detail citra menggunakan kernel *high-pass*.
 
----
-
-##  Library
-Sebelum menjalankan program, pastikan modul Python berikut telah terinstal:
-
-- `Python 3.x`
-- `opencv-python`
-- `numpy`
-- `matplotlib`
-
-Instalasi library menggunakan pip:
-```bash
-pip install opencv-python numpy matplotlib
+## Hasil filter
+```markdown
+   ![Hasil Filter Spasial](gambar.jpg)
