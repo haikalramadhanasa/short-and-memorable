@@ -13,5 +13,5 @@ Tugas ini bertujuan untuk menerapkan beberapa teknik filter spasial pada citra d
 4. **Sharpening Filter**: Menajamkan garis tepi (*edges*) dan detail citra menggunakan kernel *high-pass*.
 
 ## Hasil filter
-```markdown
-   ![Hasil Filter Spasial](gambar.jpg)
+
+![Hasil Filter Spasial](gambar.jpg)
