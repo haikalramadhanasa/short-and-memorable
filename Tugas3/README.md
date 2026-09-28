@@ -14,4 +14,4 @@ Tugas ini bertujuan untuk menerapkan beberapa teknik filter spasial pada citra d
 
 ## Hasil filter
 
-![Hasil Filter Spasial](gambar.jpg)
+![Hasil Filter Spasial](HasilFilter.png)
