@@ -9,7 +9,6 @@ Konversi warna dari RGB ke CMYK, HSI, HSV
 Hasil implementasi kode pada gambar contoh
 
 ### 1. Perbandingan Ruang Warna
-*(Ganti tautan gambar di bawah dengan screenshot hasil program Anda)*
 
 ![Hasil Konversi RGB HSV HSI CMYK](hasilimplementasi.png)
 
